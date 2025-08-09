@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : X:\projects\Inverter\Hardware\Power\inverter.PcbDoc
-Date     : 22.02.2025
-Time     : 10:32:52
+PCB File : X:\projects\inverter2\Hardware\Power\inverter.PcbDoc
+Date     : 30.06.2025
+Time     : 09:59:27
 
 Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
 Rule Violations :0
@@ -27,7 +27,7 @@ Rule Violations :0
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.14mm) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.075mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
